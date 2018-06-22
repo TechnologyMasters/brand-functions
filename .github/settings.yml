@@ -1,0 +1,27 @@
+repository:
+  name: brand
+  description: Contribute to Functions Conf
+  topics: conference, functions, faas, serverless, serverlessdays, serverlessTO, serverlessVan
+  homepage: https://functions.world
+  private: false
+  has_issues: true
+  has_wiki: false
+  has_downloads: false
+  has_projects: false
+  default_branch: master
+  allow_squash_merge: true
+  allow_merge_commit: false
+  allow_rebase_merge: true
+
+labels:
+  - name: Screen
+    description: Designs for Screens
+    color: c5def5
+
+  - name: Print
+    description: Designs for Print
+    color: c2e0c6
+
+  - name: Swag
+    description: Designs for Swag
+    color: c2e0c6
