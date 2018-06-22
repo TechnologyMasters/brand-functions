@@ -2,7 +2,7 @@ repository:
   name: brand
   description: Contribute to Functions Conf
   topics: conference, functions, faas, serverless, serverlessdays, serverlessTO, serverlessVan
-  homepage: https://functions.world
+  homepage: https://functions.events
   private: false
   has_issues: true
   has_wiki: false
