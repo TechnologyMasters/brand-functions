@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="407px" height="406px" viewBox="0 0 407 406" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>red4</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="200" cy="200" r="200"></circle>
+        <filter x="-3.1%" y="-2.1%" width="107.8%" height="108.5%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="2" dy="5" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.144743835   0 0 0 0 0.144743835   0 0 0 0 0.144743835  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="red4" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-3" transform="translate(4.000000, 3.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Oval-4" fill="#7878C0" xlink:href="#path-1"></use>
+            <g id="Group-2" filter="url(#filter-3)" mask="url(#mask-2)">
+                <g transform="translate(71.000000, 83.000000)">
+                    <polygon id="Path-38" fill="#BB045E" opacity="0.913043478" transform="translate(129.000000, 117.500000) rotate(2.000000) translate(-129.000000, -117.500000) " points="56.2043298 223.761515 110.457991 172.183665 165.245536 176.809241 196.289468 154.325857 249.66448 132.718579 253 67.1330907 218.531846 26.9983366 173.104844 5 104.724177 6.78913762 47.6069563 43.7417107 21.4566816 82.563983 5 143.199972 44.8053205 190.685967 30.0423398 230"></polygon>
+                    <g id="Group" stroke-width="1" fill="none" transform="translate(0.000000, 2.000000)">
+                        <polygon id="Path-4" fill="#660051" transform="translate(73.963330, 195.869944) rotate(3.000000) translate(-73.963330, -195.869944) " points="106.800192 169.623735 53.0818295 222.116152 41.1264676 187.18297"></polygon>
+                        <polygon id="Path-5" fill="#660051" transform="translate(136.928701, 154.544068) rotate(3.000000) translate(-136.928701, -154.544068) " points="109.419771 172.70992 164.437631 175.972796 134.706378 133.11534"></polygon>
+                        <polygon id="Path-6" fill="#792168" transform="translate(164.731278, 156.114145) rotate(3.000000) translate(-164.731278, -156.114145) " points="163.930595 177.404803 194.644765 154.691521 134.817791 134.823487"></polygon>
+                        <polygon id="Path-7" fill="#660051" transform="translate(166.248349, 131.230098) rotate(3.000000) translate(-166.248349, -131.230098) " points="196.263089 154.818789 168.903852 107.641407 136.233609 134.912817"></polygon>
+                        <polygon id="Path-8" fill="#792168" points="194.911617 156.200436 170.124513 107.893683 213.833734 110.692155"></polygon>
+                        <polygon id="Path-9" fill="#660051" points="195.014094 156.040426 213.853989 110.327757 248.937656 136.290177"></polygon>
+                        <polygon id="Path-10" fill="#792168" transform="translate(233.978713, 102.462383) rotate(3.000000) translate(-233.978713, -102.462383) " points="250.774471 135.498422 253.622604 69.4263441 214.334823 111.564489"></polygon>
+                        <polygon id="Path-11" fill="#C0124E" transform="translate(232.197701, 88.360632) rotate(3.000000) translate(-232.197701, -88.360632) " points="254.517469 69.2043714 209.877932 65.4022548 215.114811 111.319009"></polygon>
+                        <polygon id="Path-12" fill="#830644" transform="translate(193.255081, 86.499478) rotate(3.000000) translate(-193.255081, -86.499478) " points="171.158835 109.119179 209.873498 63.3698603 215.351328 109.629095"></polygon>
+                        <polygon id="Path-13" fill="#EC125E" transform="translate(234.233587, 48.961831) rotate(3.000000) translate(-234.233587, -48.961831) " points="221.065302 28.7373505 256.562503 69.1863116 211.904671 65.5059765"></polygon>
+                        <polygon id="Path-14" fill="#B1144B" transform="translate(202.314868, 45.440463) rotate(3.000000) translate(-202.314868, -45.440463) " points="221.292247 26.8849033 183.337489 35.472831 211.981634 63.9960231"></polygon>
+                        <polygon id="Path-15" fill="#C91855" transform="translate(199.101940, 20.401106) rotate(3.000000) translate(-199.101940, -20.401106) " points="222.379841 26.7442965 175.824039 5.47676959 184.627366 35.3254414"></polygon>
+                        <polygon id="Path-16" fill="#FF1263" transform="translate(156.984205, 19.320165) rotate(3.000000) translate(-156.984205, -19.320165) " points="175.791604 3.22143358 129.299023 35.4188972 184.669388 33.196021"></polygon>
+                        <polygon id="Path-17" fill="#C91855" transform="translate(141.664031, 18.676134) rotate(3.000000) translate(-141.664031, -18.676134) " points="107.678913 5.33195097 129.258512 34.8608864 175.649148 2.49138126"></polygon>
+                        <polygon id="Path-18" fill="#FF1263" transform="translate(96.135996, 35.308238) rotate(3.000000) translate(-96.135996, -35.308238) " points="128.303575 32.2210162 63.9684173 67.7063509 106.671705 2.91012587"></polygon>
+                        <polygon id="Path-19" fill="#E00B54" transform="translate(175.717628, 56.934688) rotate(3.000000) translate(-175.717628, -56.934688) " points="139.955698 79.7115826 182.667773 34.1577931 211.479557 62.708511"></polygon>
+                        <polygon id="Path-20" fill="#C0124E" transform="translate(174.402405, 85.358209) rotate(3.000000) translate(-174.402405, -85.358209) " points="138.621307 79.628615 171.278535 108.109144 210.183502 62.6072749"></polygon>
+                        <polygon id="Path-21" fill="#830644" transform="translate(153.832042, 106.491114) rotate(3.000000) translate(-153.832042, -106.491114) " points="137.373955 78.5090282 137.293413 134.473199 170.370672 107.029327"></polygon>
+                        <polygon id="Path-22" fill="#AA1F4F" transform="translate(114.155087, 104.412197) rotate(3.000000) translate(-114.155087, -104.412197) " points="137.438719 76.5105377 90.8714555 114.030416 137.392886 132.313856"></polygon>
+                        <polygon id="Path-23" fill="#C2104E" transform="translate(99.417123, 90.652177) rotate(3.000000) translate(-99.417123, -90.652177) " points="137.753113 75.9796372 61.0811343 67.9083079 91.5201354 113.396046"></polygon>
+                        <polygon id="Path-24" fill="#792168" transform="translate(111.896498, 142.742567) rotate(3.000000) translate(-111.896498, -142.742567) " points="88.4606566 113.810093 109.740763 171.675042 135.332339 132.097975"></polygon>
+                        <polygon id="Path-25" fill="#660051" transform="translate(77.091175, 141.143302) rotate(3.000000) translate(-77.091175, -141.143302) " points="88.7255356 112.561828 44.4471104 146.495248 109.735239 169.724777"></polygon>
+                        <polygon id="Path-26" fill="#792168" transform="translate(24.605477, 122.517025) rotate(3.000000) translate(-24.605477, -122.517025) " points="45.3262846 143.855509 41.068116 101.178541 3.88467021 140.53398"></polygon>
+                        <polygon id="Path-27" fill="#660051" transform="translate(22.603186, 162.644551) rotate(3.000000) translate(-22.603186, -162.644551) " points="1.59274399 140.393951 43.2575007 184.895151 43.6136282 143.835169"></polygon>
+                        <polygon id="Path-28" fill="#A40070" transform="translate(23.034058, 108.571240) rotate(3.000000) translate(-23.034058, -108.571240) " points="4.36220009 140.599418 20.3145686 76.5430625 41.7059157 101.336174"></polygon>
+                        <polygon id="Path-29" fill="#BB045E" transform="translate(41.525464, 83.738334) rotate(3.000000) translate(-41.525464, -83.738334) " points="21.6144417 77.4393285 61.4364854 64.9246363 43.0553705 102.552032"></polygon>
+                        <polygon id="Path-30" fill="#A40070" transform="translate(65.455062, 124.747657) rotate(3.000000) translate(-65.455062, -124.747657) " points="41.0175044 103.506317 89.8926192 111.700328 45.2133028 145.988996"></polygon>
+                        <polygon id="Path-31" fill="#E00B54" transform="translate(42.840645, 58.141305) rotate(3.000000) translate(-42.840645, -58.141305) " points="22.9971189 77.4421308 48.7772323 38.8404791 62.684171 65.0150708"></polygon>
+                        <polygon id="Path-32" fill="#C91855" transform="translate(78.380720, 34.386524) rotate(3.000000) translate(-78.380720, -34.386524) " points="50.0455316 40.793882 106.715908 1.99226649 63.9148919 66.7807821"></polygon>
+                        <polygon id="Path-33" fill="#792168" transform="translate(39.296802, 206.228846) rotate(3.000000) translate(-39.296802, -206.228846) " points="40.8703175 185.433329 26.0987988 227.024363 52.4948053 220.239245"></polygon>
+                        <polygon id="Path-34" fill="#B1144B" transform="translate(155.040574, 55.911765) rotate(3.000000) translate(-155.040574, -55.911765) " points="127.380881 35.4388086 139.766762 78.815316 182.700267 33.0082138"></polygon>
+                        <polygon id="Path-35" fill="#E00B54" transform="translate(101.405823, 54.260939) rotate(3.000000) translate(-101.405823, -54.260939) " points="127.502816 32.4641509 139.76268 76.0577262 63.0489652 68.0051808"></polygon>
+                        <polygon id="Path-36" fill="#830644" transform="translate(67.198712, 88.990937) rotate(3.000000) translate(-67.198712, -88.990937) " points="61.1887869 66.2942059 42.8880998 103.627222 91.509324 111.687668"></polygon>
+                        <polygon id="Path-37" fill="#792168" transform="translate(75.965509, 166.712975) rotate(3.000000) translate(-75.965509, -166.712975) " points="43.055702 146.347969 108.875315 169.582396 43.1132572 187.077982"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
