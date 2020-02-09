@@ -1,5 +1,5 @@
 repository:
-  name: brand
+  name: brand-functions
   description: Contribute to Functions Conf
   topics: conference, functions, faas, serverless, serverlessdays, serverlessTO, serverlessVan
   homepage: https://functions.events
